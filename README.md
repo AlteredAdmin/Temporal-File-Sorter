@@ -17,7 +17,7 @@
 1. Clone the repository or download `TemporalFileSorter.py`.
    
    ```
-   git clone <repository-url>
+   git clone https://github.com/AlteredAdmin/Temporal-File-Sorter
    ```
 
 2. Navigate to the directory containing `TemporalFileSorter.py`.
